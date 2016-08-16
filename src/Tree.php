@@ -1,5 +1,5 @@
 <?php
-namespace phpclass/tree;
+namespace phpclass\tree;
 /**
  * 通用的树型类，可以生成任何树型结构
  */
